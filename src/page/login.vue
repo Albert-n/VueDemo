@@ -2,7 +2,7 @@
   <div class="login-bg">
     <div>ni</div>
     <div id="login">
-      <login-input style="float: left;margin-left: 4000px;"></login-input>
+      <login-input style="float: left;margin-left: 400000px;"></login-input>
     </div>
   </div>
 </template>
