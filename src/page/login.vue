@@ -1,5 +1,6 @@
 <template>
   <div class="login-bg">
+    <div>ni</div>
     <div id="login">
       <login-input style="float: left;margin-left: 40px;"></login-input>
     </div>
